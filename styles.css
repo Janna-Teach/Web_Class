@@ -58,3 +58,6 @@ table {
     cellpadding: 5;
     border: 3px yellow double;
 }
+th, td {
+    border: 1px solid yellow;
+}
