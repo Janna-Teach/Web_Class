@@ -52,3 +52,9 @@ ol {
     font-size: 12pt;
     color:aqua;
 }
+table {
+    width: 50%;
+    cellspacing: 10;
+    cellpadding: 5;
+    border: 3px yellow double;
+}
