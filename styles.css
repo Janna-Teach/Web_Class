@@ -54,10 +54,10 @@ ol {
 }
 table {
     width: 50%;
-    cellspacing: 10;
-    cellpadding: 5;
+    cellspacing: 0;
+    cellpadding: 0;
     border: 3px yellow double;
-    border-colapse: colapse;   
+    border-collapse: collapse;   
 }
 th, td {
     border: 1px solid yellow;
