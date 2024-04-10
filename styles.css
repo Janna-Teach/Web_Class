@@ -53,6 +53,7 @@ ol {
     color:aqua;
 }
 table {
+    align: center;
     width: 50%;
     cellspacing: 0;
     cellpadding: 0;
